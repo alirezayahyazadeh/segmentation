@@ -34,8 +34,8 @@ This repository contains a collection of Python scripts that combine real-time o
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/alirezayahyazadeh/segmentation
-   cd yourrepository
+   git clone (https://github.com/alirezayahyazadeh/segmentation)
+   
 ##Usage
 Setup Hardware
 •	Connect your Intel RealSense camera.
